@@ -11,9 +11,9 @@
 
 ```javascript
 ShadowNetter = {
-    pronouns: "he" | "him"
-    located_in: "Europe"
-    interests: "Piano, Programming"
+    pronouns: "he" | "him",
+    located_in: "Europe",
+    interests: "Piano, Programming, Chess"
 };
 ```
 
