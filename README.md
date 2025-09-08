@@ -13,6 +13,7 @@
 ShadowNetter = {
     pronouns: "he" | "him",
     located_in: "Europe",
+    languages_spoken: "English, French, Portugues",
     interests: "Piano, Programming, Chess"
 };
 ```
