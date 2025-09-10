@@ -30,6 +30,7 @@ ShadowNetter = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/>
     <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" alt="github" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="45" height="45" />
 </p>
 
 
