@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ytimg.com/vi/HXUHHGOFFMk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC40jidE99inQ8x2SKQhnOiqPhfEA"/>
+  <img src="https://media1.tenor.com/m/cRTQk6N_FxMAAAAC/swag-cat-swagbilli-cutecat-cats-cat-swag-ok-yooo-yo.gif"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
     <a href="https://github.com/ShadowNetter-Official" target="_blank"><img src="https://img.shields.io/badge/github-black?logo=github" alt="github"/></a>
 </p>
 
-## About Me 👤
+## About Me
 
 ```javascript
 ShadowNetter = {
@@ -18,7 +18,7 @@ ShadowNetter = {
 };
 ```
 
-## Tech Stack 🚀
+## Tech Stack
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="arch linux" width="45" height="45"/>
