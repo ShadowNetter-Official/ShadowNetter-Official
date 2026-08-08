@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://youtube.com/@ShadowNetter" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" alt="youtube"/></a>
-    <a href="https://github.com/ShadowNetter-Official" target="_blank"><img src="https://img.shields.io/badge/github-black?logo=github" alt="github"/></a>
+    <a href="https://x.com/@ShadowNetter" target="_blank"><img src="https://img.shields.io/badge/x-black?logo=x" alt="x"/></a>
 </p>
 
 ## About Me
